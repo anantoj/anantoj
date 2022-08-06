@@ -1,4 +1,10 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
+# Hi there! I'm Ananto 👋
+
+[![Linkedin Badge](https://img.shields.io/badge/-anantoj-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anantoj/)](https://www.linkedin.com/in/anantoj/)
+[![Gmail Badge](https://img.shields.io/badge/-gg.ananto-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gg.ananto@gmail.com)](mailto:gg.ananto@gmail.com)
+
+I'm a machine learning engineer at [Bookbot](https://www.bookbotkids.com) and a 3rd year undergraduate computer science student. 
+
 
 <!--
 **anantoj/anantoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
