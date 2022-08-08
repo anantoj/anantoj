@@ -1,7 +1,8 @@
-# Hi there! I'm Ananto 👋
+# Hi there! I'm Ananto <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-anantoj-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anantoj/)](https://www.linkedin.com/in/anantoj/)
-[![Gmail Badge](https://img.shields.io/badge/-gg.ananto-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gg.ananto@gmail.com)](mailto:gg.ananto@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-anantoj-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anantoj/)](https://www.linkedin.com/in/anantoj/)
+[![Gmail](https://img.shields.io/badge/-gg.ananto-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gg.ananto@gmail.com)](mailto:gg.ananto@gmail.com)
+[![huggingface](https://badgen.net/badge/🤗/anantoj/yellow)](https://huggingface.co/anantoj)
 
 I'm a machine learning engineer at [Bookbot](https://www.bookbotkids.com) and a 3rd year undergraduate computer science student.
 
