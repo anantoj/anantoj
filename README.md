@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Data Science and Statistics
 - 👨‍💻 Check out my porfolio at [anantoj.github.io](anantoj.github.io)
 - ⚡  Fun fact: I ❤️  learning about Physics. Some day I hope to get a theoretical degree in Physics 😂.
-- 📝 My fields of interest are: Data Science, NLP, Image
+- 📝 My fields of interest are: Data Science, NLP, Vision
 
 <p align="left">
   <img
